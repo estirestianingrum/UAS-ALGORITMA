@@ -20,7 +20,7 @@ public class tumpukanApp {
         System.out.println(" ");
         long nilaitop = tumpukan.peek();
         System.out.println("nilai teratas = "+ nilaitop);
-        System.out.println("Prisma Alamsyah");
+        System.out.println("Esti restia ningrum");
         long nilaipop = tumpukan.pop();
         System.out.println("nilai yang dihapus = "+ nilaipop);
         tumpukan.baca();
